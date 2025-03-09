@@ -1,4 +1,4 @@
-# College-Knowledge
+![image](https://github.com/user-attachments/assets/60f13729-770b-40f3-a3b3-99fe95cea025)# College-Knowledge
 
 团队进度跟进，时间线，发什么？：
 
@@ -119,8 +119,9 @@ Deepresesrch
 湖州师范学院VR全景地图（街景地图）
 ![湖州师范学院（高空VR全景地图）二维码](https://github.com/user-attachments/assets/34c4cbea-f3e0-489d-8e9a-6f419de1fcc9)
 
-![地图效果](image-4.png)
-![湖州师范学院地面VR全景地图二维码](image-3.png)
+![地图效果](https://github.com/user-attachments/assets/8b0a9171-3710-4d2b-9802-187a5e411ea3
+)
+![湖州师范学院地面VR全景地图二维码](https://github.com/user-attachments/assets/799acdb8-00d0-499e-9179-6d22e3eee029)
 
 
 
@@ -301,17 +302,19 @@ A: 可以加入社团和各种部门来认识更多人
 
 
 湖州学院作息表
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/869f919f-3475-40c6-856d-0ad890e1a52a)
 
 湖州师范学院作息表
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/11fa391a-a4c1-4d76-b6d5-299744f18dde)
+
+
 湖州师范学院新生指南
-![\[图片\]](Document/湖州师范学院新生指南1.png)
-![alt text](Document/湖州师范学院新生指南2.png)
 
+![湖州师范学院新生指南1](https://github.com/user-attachments/assets/1fc1b1ef-b5fd-405b-9752-9b4f4403760a)
+![湖州师范学院新生指南2](https://github.com/user-attachments/assets/bc2de8b7-2a80-48e1-9796-9f3b3f6fee45)
 
-四六级常用词
-[text](Document/四六级常用词组.pdf)
 
 微信群二维码
-![College-Knowledge/Document/新生群二维码.png](Document/新生群二维码.png)
+
+![image](https://github.com/user-attachments/assets/3672ac07-a647-427c-91e1-75c7d99577e3)
+
