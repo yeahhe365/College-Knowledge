@@ -1,5 +1,7 @@
 # College-Knowledge
 
+这个项目是湖州学院和湖州师范学院的新生数据库，语言模型可以根据项目回答新生问题
+
 ## 团队进度跟进，时间线，发什么？
 
 **贾-3月6日：**  
@@ -369,8 +371,6 @@
     - 湖州师范学院招生办：0572-2322001 [meiyuanbao.com]。  
   - 同时提供招生QQ/微信在线答疑及“考生问答”栏目 [zsw.zjhzu.edu.cn].
 
-参考来源：  
-[zsw.zjhzu.edu.cn] [huzhou.gov.cn] [dxsbb.com] [meiyuanbao.com] 等（所有数据均来自学校官网、官方新闻报道或权威教育信息平台，确保信息可靠）。
 
 ---
 
@@ -390,7 +390,3 @@ By the way, 学长也是在学校做校园卡兼职，想着给大家提供一�
 
 - 湖州学院官网：[https://www.zjhzu.edu.cn/](https://www.zjhzu.edu.cn/)
 - 湖州师范学院官网：[https://www.zjhu.edu.cn/](https://www.zjhu.edu.cn/)
-
-大学新生的入学准备（不只是打包行李那么简单）：  
-[https://mp.weixin.qq.com/s/XkGXYtGlCa1eSY7uoP9ROQ](https://mp.weixin.qq.com/s/XkGXYtGlCa1eSY7uoP9ROQ)
-
