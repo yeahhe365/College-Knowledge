@@ -79,10 +79,7 @@
 
 ### 网站
 
-**湖院 & 湖师万事通资源网站**  
 
-“湖院 & 湖师万事通”网站：[https://www.yeahhe.online/](https://www.yeahhe.online/)。  
-网站汇集了大量实用的校园信息，从各专业必备软件指南、校园地图，到水卡、电费充值教程，应有尽有🔍。
 
 - 湖州学院官网：[https://www.zjhzu.edu.cn/](https://www.zjhzu.edu.cn/)
 - 湖州师范学院官网：[https://www.zjhu.edu.cn/](https://www.zjhu.edu.cn/)
