@@ -117,7 +117,8 @@ Deepresesrch
 校园信息
 湖州师范学院
 湖州师范学院VR全景地图（街景地图）
-![湖州师范学院（高空VR全景地图）二维码](image-2.png)
+![湖州师范学院（高空VR全景地图）二维码](https://github.com/user-attachments/assets/34c4cbea-f3e0-489d-8e9a-6f419de1fcc9)
+
 ![地图效果](image-4.png)
 ![湖州师范学院地面VR全景地图二维码](image-3.png)
 
