@@ -4,6 +4,9 @@
 
 ---
 
+- **微信新生群二维码图片**  
+  ![image](https://github.com/user-attachments/assets/3672ac07-a647-427c-91e1-75c7d99577e3)
+
 ## 团队进度跟进，时间线，发什么？
 
 **贾-3月6日：**  
